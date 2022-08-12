@@ -1,4 +1,4 @@
-<h1>DUnet</h1>
+<h1>DUnet (The codes and detailed information will be updated when the preprint is published)</h1>
 
 <h1>Environment Preparetion</h1>
 1. clone this repository
