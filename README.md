@@ -1,5 +1,5 @@
-<h1>DUnet (The codes and detailed information will be updated when the preprint is published)</h1>
-
+<h1>DUnet</h1>
+A 3D convolutional neural network DUnet that derived from DenseNet and UNet for predicting the protein-ligand binding sites.  
 <h1>Environment Preparetion</h1>
 1. clone this repository
 <pre>
@@ -42,3 +42,6 @@ python train.py --dataset dataset/ --bz 1 -- lr 1e-4 --epoch 200
 </pre>
 
 <h1>Citation</h1>
+DUnet: A deep learning guided protein-ligand binding pocket prediction
+Xinglong Wang, Beichen Zhao, Penghui Yang, Yameng Tan, Ruyi Ma, Shengqi Rao, Jianhui Du, Jian Chen, Jingwen Zhou, Song Liu
+bioRxiv 2022.08.11.503579; doi: https://doi.org/10.1101/2022.08.11.503579
