@@ -40,7 +40,7 @@ python train.py --dataset [path of dataset] --bz [batch size] -- lr [learning ra
 </pre>
 example:
 <pre>
-python train.py --dataset dataset/ --bz 1 -- lr 1e-4 --epoch 100
+python train.py --dataset dataset/ --bz 5 -- lr 1e-4 --epoch 100
 </pre>
 
 <h1>Citation</h1>
