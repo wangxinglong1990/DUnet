@@ -22,7 +22,7 @@ python predict.py --protein [path of pdb file] --model [saved model]
 </pre>
 example:
 <pre>
-python predict.py --protein 1iu4.pdb --model DUnet-3.pth
+python predict.py --protein 6gmg.pdb --model DUnet-3.pth
 </pre>
 To train the model with other database, 2 step shall be followed:<br>
 1. generate the dataset from database, run the following command (data preprocessing may need to be done if using your own database):  
