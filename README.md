@@ -1,4 +1,4 @@
-<h1>DUnet (Detailed information and codes will be updated after the preprint published)</h1>
+<h1>DUnet</h1>
 A 3D convolutional neural network DUnet that derived from DenseNet and UNet for predicting the protein-ligand binding sites.
 
 Related datasets can be downloaded from https://drive.google.com/drive/folders/1TZchdq_L2vHLz4FogjoRhgLzxlIkPxjS?usp=sharing
