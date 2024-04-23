@@ -20,13 +20,8 @@ conda env create -f environment.yml
 3. intstall tfbio from https://gitlab.com/cheminfIBB/tfbio
 
 <h1>Usage</h1>
-To predict the protein pocket with DUnet, run the following command:
-<pre>
-python predict.py --protein [path of pdb file] --model [saved model]
-</pre>
-example:
-<pre>
-python predict.py --protein 6gmg.pdb --model DUnet-3.pth
+We provide two method for protein-ligand area segmentation, including DenseNet and self-attention-based (DUnet), and DenseNet-based model.
+
 </pre>
 To train the model with other database, 2 step shall be followed:<br>
 1. generate the dataset from database, run the following command (data preprocessing may need to be done if using your own database):  
