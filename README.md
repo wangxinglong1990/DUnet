@@ -40,7 +40,13 @@ python train.py --dataset [path of dataset] --bz [batch size] -- lr [learning ra
 example:
 <pre>
 python train.py --dataset dataset/ --bz 5 -- lr 1e-4 --epoch 100
-</pre>
+</pre>  
+
+AlphaFold structures predicted binding sites:  
+https://drive.google.com/file/d/1hev9l8OiVf7Cti7VIfj7kce0bYuEFkDW/view?usp=sharing  
+
+
+
 
 <h1>Citation</h1>
 DUnet: A deep learning guided protein-ligand binding pocket prediction
